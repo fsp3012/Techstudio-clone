@@ -36,7 +36,6 @@ ul li a:hover {
 .page1 {
   display: flex;
   justify-content: space-around;
-  /* width: 100vw; */
   height: 100vh;
   background: url(./images/img1.jpeg);
   background-size: cover;
@@ -643,6 +642,10 @@ div h3 {
   text-align: center;
   text-decoration: none;
   padding-top: 15px;
+}
+.page13b a:hover{
+    background-color: #007bffcc;
+    
 }
 .page13b input {
   width: 420px;
